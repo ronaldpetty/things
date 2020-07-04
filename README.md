@@ -45,3 +45,6 @@ Things interesting to me.
 * https://everytwoyears.org/
 * https://www.youtube.com/watch?v=ZTC_RxWN_xo
 * https://stratechery.com/2020/apple-and-facebook/
+
+# More things
+* threads, fibers, threadlets, 
